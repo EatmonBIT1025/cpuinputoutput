@@ -1,1 +1,2 @@
 # cpuinputoutput
+The components cpu, input and output are all used at a self checkout. The input is the item i want to purchase is being scanned so the computer of the register processes that input and presumably identifies the item being scanned and outputs the cost of the item on the screen. i am using the scanner as input. of course the cpu processes that cost to which makes the price displayed on the screen its output. 
